@@ -37,7 +37,7 @@ const psychologists = [
   {
     id: 4,
     imagePerson: "https://i.imgur.com/u2NQWd4.png",
-    imageType: "https://i.imgur.com/Qpky0S8.png",
+    imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/k83MdP2.png",
     name: "Asociación TOC Granada",
     specialties: "☑Obsessive-Compulsive (OCD)",
@@ -66,7 +66,7 @@ const psychologists = [
   {
     id: 7,
     imagePerson: "https://i.imgur.com/fCqFWZD.png",
-    imageType: "https://i.imgur.com/PNRT04Z.png",
+    imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Anxiety & OCD Treatment of Tampa Bay",
     specialties: "☑Obsessive-Compulsive (OCD) ☑Anxiety",
@@ -105,7 +105,7 @@ const psychologists = [
   {
     id: 11,
     imagePerson: "https://i.imgur.com/gq4ABju.png",
-    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/k83MdP2.png",
     name: "Planeta TOC",
     specialties: "☑Obsessive-Compulsive (OCD)",
@@ -114,7 +114,7 @@ const psychologists = [
   {
     id: 12,
     imagePerson: "https://i.imgur.com/b5JjodK.png",
-    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "CBT Center For Anxiety + OCD",
     specialties: "☑Obsessive-Compulsive (OCD) ☑Anxiety",
@@ -133,7 +133,7 @@ const psychologists = [
   {
     id: 14,
     imagePerson: "https://i.imgur.com/Vfw7hyU.jpg",
-    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Louisville OCD Clinic",
     specialties: "☑Obsessive-Compulsive (OCD) ☑Hoarding ☑Spirituality",
@@ -153,7 +153,7 @@ const psychologists = [
   {
     id: 16,
     imagePerson: "https://i.imgur.com/yXyaRIo.png",
-    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Nashville OCD Anxiety Treatment Center",
     specialties: "☑Anxiety ☑Obsessive-Compulsive (OCD)",
@@ -162,7 +162,7 @@ const psychologists = [
   {
     id: 17,
     imagePerson: "https://i.imgur.com/FshnLWy.jpg",
-    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "California OCD & Anxiety Treatment Center ",
     specialties: "☑Anxiety ☑Obsessive-Compulsive (OCD)",
