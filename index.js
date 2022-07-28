@@ -210,5 +210,5 @@ app.post("api/psychologists", (req, res) => {
   res.send(psychologist);
 });
 
-const port = process.env.PORT;
-app.listen(port, () => console.log(`Port Listening ${port}...`));
+//const port = process.env.PORT;
+app.listen(process.env.PORT, () => console.log(`Port Listening ${process.env.PORT}...`));
