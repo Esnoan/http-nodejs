@@ -36,8 +36,8 @@ const psychologists = [
   },
   {
     id: 4,
-    imagePerson: "https://i.imgur.com/Qpky0S8.png",
-    imageType: "https://i.imgur.com/q15TaUg.png",
+    imagePerson: "https://i.imgur.com/u2NQWd4.png",
+    imageType: "https://i.imgur.com/Qpky0S8.png",
     imageCountry: "https://i.imgur.com/k83MdP2.png",
     name: "Asociación TOC Granada",
     specialties: "☑Obsessive-Compulsive (OCD)",
@@ -65,8 +65,8 @@ const psychologists = [
   },
   {
     id: 7,
-    imagePerson: "https://i.imgur.com/PNRT04Z.png",
-    imageType: "https://i.imgur.com/q15TaUg.png",
+    imagePerson: "https://i.imgur.com/fCqFWZD.png",
+    imageType: "https://i.imgur.com/PNRT04Z.png",
     imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Anxiety & OCD Treatment of Tampa Bay",
     specialties: "☑Obsessive-Compulsive (OCD) ☑Anxiety",
