@@ -7,8 +7,8 @@ const psychologists = [
   {
     id: 1,
     imagePerson: "https://i.imgur.com/Sv5T8Dt.png",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/jzp3J3O.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Stacey Wochner",
     specialties: "Obsessive-Compulsive (OCD), Anxiety, Coping Skills ",
     contact:
@@ -17,8 +17,8 @@ const psychologists = [
   {
     id: 2,
     imagePerson: "https://i.imgur.com/2UxFdJD.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/AMngoUX.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "David Davis",
     specialties: "Obsessive-Compulsive (OCD), Anxiety, Depression",
     contact:
@@ -27,8 +27,8 @@ const psychologists = [
   {
     id: 3,
     imagePerson: "https://i.imgur.com/tOw0hoe.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/AMngoUX.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Chris Leins",
     specialties: "Obsessive-Compulsive (OCD), Eating Disorders, Anxiety",
     contact:
@@ -37,8 +37,8 @@ const psychologists = [
   {
     id: 4,
     imagePerson: "https://i.imgur.com/u2NQWd4.png",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageCountry: "https://i.imgur.com/k83MdP2.png",
     name: "Asociación TOC Granada",
     specialties: "Obsessive-Compulsive (OCD)",
     contact:
@@ -47,8 +47,8 @@ const psychologists = [
   {
     id: 5,
     imagePerson: "https://i.imgur.com/rzoTtoc.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/AMngoUX.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Ken Goodman",
     specialties: "Anxiety, Obsessive-Compulsive (OCD), Trauma and PTSD",
     contact:
@@ -56,27 +56,27 @@ const psychologists = [
   },
   {
     id: 6,
-    imagePerson: "https://i.imgur.com/CgphItR.png",
-    imageType: "",
-    imageCountry: "",
+    imagePerson: "https://i.imgur.com/lE8Vcbt.png",
+    imageType: "https://i.imgur.com/AMngoUX.png",
+    imageCountry: "https://i.imgur.com/k83MdP2.png",
     name: "Psinco Alejandro Ibarra",
     specialties: "Obsessive-Compulsive (OCD)",
     contact: "https://alejandroibarra.es/contacto/",
   },
   {
     id: 7,
-    imagePerson: "https://i.imgur.com/rlGI3NF.png",
-    imageType: "",
-    imageCountry: "",
-    name: "Anxiety & OCD Treatment",
+    imagePerson: "https://i.imgur.com/fCqFWZD.png",
+    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
+    name: "Anxiety & OCD Treatment of Tampa Bay",
     specialties: "Obsessive-Compulsive (OCD), Anxiety",
     contact: "https://anxietyocdtampa.com/contact-us/",
   },
   {
     id: 8,
     imagePerson: "https://i.imgur.com/flbz83S.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/jzp3J3O.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Natalie Henry",
     specialties: "Anxiety, Obsessive-Compulsive (OCD), Stress",
     contact:
@@ -85,8 +85,8 @@ const psychologists = [
   {
     id: 9,
     imagePerson: "https://i.imgur.com/OmAcwmw.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/jzp3J3O.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Misti Nicholson",
     specialties: "Obsessive-Compulsive (OCD), Anxiety, Coping Skills",
     contact:
@@ -95,8 +95,8 @@ const psychologists = [
   {
     id: 10,
     imagePerson: "https://i.imgur.com/vWJe0J8.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/jzp3J3O.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Erin Stevens",
     specialties: "Obsessive-Compulsive (OCD), Anxiety, Stress",
     contact:
@@ -104,18 +104,18 @@ const psychologists = [
   },
   {
     id: 11,
-    imagePerson: "https://i.imgur.com/RhD60VJ.png",
-    imageType: "",
-    imageCountry: "",
+    imagePerson: "https://i.imgur.com/gq4ABju.png",
+    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageCountry: "https://i.imgur.com/k83MdP2.png",
     name: "Planeta TOC",
     specialties: "Obsessive-Compulsive (OCD)",
     contact: "https://www.planetatoc.com/asociacion-contacto",
   },
   {
     id: 12,
-    imagePerson: "https://i.imgur.com/DdAQiQ1.png",
-    imageType: "",
-    imageCountry: "",
+    imagePerson: "https://i.imgur.com/b5JjodK.png",
+    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "CBT Center For Anxiety + OCD",
     specialties: "Obsessive-Compulsive (OCD), Anxiety",
     contact: "https://cbtcenterforanxiety.com/contactus/",
@@ -123,8 +123,8 @@ const psychologists = [
   {
     id: 13,
     imagePerson: "https://i.imgur.com/F64sLVV.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/jzp3J3O.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Belinda Seiger",
     specialties: "Anxiety, Obsessive-Compulsive (OCD), ADHD",
     contact:
@@ -133,8 +133,8 @@ const psychologists = [
   {
     id: 14,
     imagePerson: "https://i.imgur.com/Vfw7hyU.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Louisville OCD Clinic",
     specialties: "Obsessive-Compulsive (OCD), Hoarding, Spirituality",
     contact:
@@ -143,8 +143,8 @@ const psychologists = [
   {
     id: 15,
     imagePerson: "https://i.imgur.com/7Z7bW31.jpg",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/AMngoUX.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Michael Soderstrom",
     specialties: "",
     contact:
@@ -153,8 +153,8 @@ const psychologists = [
   {
     id: 16,
     imagePerson: "https://i.imgur.com/yXyaRIo.png",
-    imageType: "",
-    imageCountry: "",
+    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
     name: "Nashville OCD Anxiety Treatment Center",
     specialties: "Anxiety, Obsessive-Compulsive (OCD)",
     contact: "https://www.ocdnashville.com/contact-us",
@@ -162,16 +162,16 @@ const psychologists = [
   {
     id: 17,
     imagePerson: "https://i.imgur.com/FshnLWy.jpg",
-    imageType: "",
-    imageCountry: "",
-    name: "Cal OCD",
+    imageType: "https://i.imgur.com/q15TaUg.png",
+    imageCountry: "https://i.imgur.com/C12mH9b.png",
+    name: "California OCD & Anxiety Treatment Center ",
     specialties: "",
     contact: "https://calocd.com/contact/contact/",
   },
   {
     id: 18,
     imagePerson: "https://i.imgur.com/R5VVPTz.jpg",
-    imageType: "",
+    imageType: "https://i.imgur.com/AMngoUX.png",
     imageCountry: "",
     name: "Jason Spielman",
     specialties: "Obsessive-Compulsive (OCD), Anxiety, Autism",
