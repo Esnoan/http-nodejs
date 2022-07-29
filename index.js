@@ -68,7 +68,7 @@ const psychologists = [
     imagePerson: "https://i.imgur.com/fCqFWZD.png",
     imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/C12mH9b.png",
-    name: "TampaBay Treatment Center",
+    name: "TB Treatment Center",
     specialties: "☑Obsessive-Compulsive (OCD) ☑Anxiety",
     contact: "https://anxietyocdtampa.com/contact-us/",
   },
