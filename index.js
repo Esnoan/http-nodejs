@@ -68,7 +68,7 @@ const psychologists = [
     imagePerson: "https://i.imgur.com/fCqFWZD.png",
     imageType: "https://i.imgur.com/jCSXerm.png",
     imageCountry: "https://i.imgur.com/C12mH9b.png",
-    name: "Tampa Bay Treatment Center",
+    name: "TampaBay Treatment Center",
     specialties: "☑Obsessive-Compulsive (OCD) ☑Anxiety",
     contact: "https://anxietyocdtampa.com/contact-us/",
   },
@@ -179,6 +179,7 @@ const psychologists = [
       "https://www.psychologytoday.com/us/therapists/anxiety-ocd-treatment-center-of-florida-boca-raton-fl/806587",
   },
 ];
+
 app.get("/", (req, res) => {
   res.send("Node JS api");
 });
